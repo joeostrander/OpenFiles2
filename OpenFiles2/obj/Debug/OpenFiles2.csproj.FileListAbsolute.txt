@@ -1,0 +1,6 @@
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\OpenFiles2\OpenFiles2\bin\Debug\OpenFiles2.exe.config
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\OpenFiles2\OpenFiles2\bin\Debug\OpenFiles2.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\OpenFiles2\OpenFiles2\bin\Debug\OpenFiles2.pdb
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\OpenFiles2\OpenFiles2\obj\Debug\OpenFiles2.csprojResolveAssemblyReference.cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\OpenFiles2\OpenFiles2\obj\Debug\OpenFiles2.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\OpenFiles2\OpenFiles2\obj\Debug\OpenFiles2.pdb
